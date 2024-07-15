@@ -1,4 +1,4 @@
-# Robosapians_Saintgits College Of Engineering_Develop a 2D Occupancy Grid Map of a Room using Overhead Cameras
+# Develop a 2D Occupancy Grid Map of a Room using Overhead Cameras
 ### Final Report Submission for Intel Unnati Industrial Training
 
 ---
@@ -72,3 +72,12 @@ The project involves developing a 2D occupancy grid map for indoor environments 
 
 In this project, we successfully developed a detailed 2D occupancy grid map using overhead RGB cameras integrated with ROS 2 Foxy and validated within the Gazebo simulation environment. This approach offers a cost-effective alternative to traditional LIDAR-based methods while ensuring robust performance in real-time data processing and environmental mapping. Iterative refinements based on simulation results enhanced our system’s accuracy in camera calibration, image processing, and overall mapping quality. Our methodology lays a solid foundation for advancing Autonomous Mobile Robot (AMR) navigation in dynamic indoor environments, supporting optimized path planning, obstacle avoidance, and spatial awareness. This project demonstrates the feasibility and potential of using overhead cameras for effective AMR navigation and spatial mapping applications.
 
+---
+
+## Team Members and Contribution
+
+- **Sriram S Rajan**: Simulation and Mapping
+- **Richu K Mathew**: Simulation and Mapping
+- **Sneha Mariam Shaji**: Simulation and Mapping
+- **Abi Talib**: Report and Documentation
+- **Rohith Santhosh**: Report and Documentation
