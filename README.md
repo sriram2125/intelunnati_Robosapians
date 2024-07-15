@@ -13,3 +13,7 @@ that identifies occupied and unoccupied spaces. The results underscore both the 
 of using overhead cameras for detailed environmental mapping and the challenges related
 to calibration precision and data processing. Despite these challenges, the project highlights significant strides towards effective AMR navigation and sets the stage for future
 improvements and more comprehensive mapping solutions.
+
+Keywords: 2D occupancy grid map Overhead cameras Autonomous Mobile Robots
+(AMRs) ROS 2 Foxy Gazebo simulation Indoor environment mapping RGB cameras Path
+planning Obstacle avoidance Environment mapping
