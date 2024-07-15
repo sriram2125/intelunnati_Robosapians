@@ -72,10 +72,3 @@ The project involves developing a 2D occupancy grid map for indoor environments 
 
 In this project, we successfully developed a detailed 2D occupancy grid map using overhead RGB cameras integrated with ROS 2 Foxy and validated within the Gazebo simulation environment. This approach offers a cost-effective alternative to traditional LIDAR-based methods while ensuring robust performance in real-time data processing and environmental mapping. Iterative refinements based on simulation results enhanced our system’s accuracy in camera calibration, image processing, and overall mapping quality. Our methodology lays a solid foundation for advancing Autonomous Mobile Robot (AMR) navigation in dynamic indoor environments, supporting optimized path planning, obstacle avoidance, and spatial awareness. This project demonstrates the feasibility and potential of using overhead cameras for effective AMR navigation and spatial mapping applications.
 
----
-
-## Authors
-
-- Arvind Raju - raju.arvind@intel.com
-- Amit Baxi - amit.s.baxi@intel.com
-- Ajay Kumar Sandula - ajay.kumar.sandula@intel.com
